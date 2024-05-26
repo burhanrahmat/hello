@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/alphame1/hello.alphamediacreative.com/
+    - /bin/cp -R images $DEPLOYPATH
