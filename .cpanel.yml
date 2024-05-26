@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/alphame1/hello.alphamediacreative.com/
+    - export DEPLOYPATH=/home/alphame1/hai.alphamediacreative.com/
     - /bin/cp -R * $DEPLOYPATH
